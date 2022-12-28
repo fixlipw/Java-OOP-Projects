@@ -2,3 +2,8 @@
 _003-Tamagochi/src/Main.java
 _004-Relogio/src/Main.java
 _002-Car
+_029-CRUD_Despesas_JDBC/target/classes/br/com/crudProject/dao/DespesaDAO.class
+_029-CRUD_Despesas_JDBC/target/classes/br/com/crudProject/Application.class
+_029-CRUD_Despesas_JDBC/target/classes/br/com/crudProject/model/Categoria.class
+_029-CRUD_Despesas_JDBC/target/classes/br/com/crudProject/infra/ConnectionFactory.class
+_029-CRUD_Despesas_JDBC/target/classes/br/com/crudProject/model/Despesa.class

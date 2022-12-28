@@ -6,7 +6,7 @@ O objetivo dessa atividade é implementar uma calculadora e sua bateria.
 * É possível também mostrar a quantidade de bateria e recarregar a calculadora.
 * Ela avisa quando está sem bateria e se há tentativa de divisão por 0.
 
-### Requisitos
+### Recursos
 
 * Mostrar bateria da calculadora.
 * Recarregar bateria.

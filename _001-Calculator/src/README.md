@@ -1,6 +1,6 @@
 # Calculadora
 
-O objetivo dessa atividade é implementar uma calculadora a bateria. 
+O objetivo dessa atividade é implementar uma calculadora e sua bateria. 
 
 * Se há bateria, ela executa operações de soma e divisão. 
 * É possível também mostrar a quantidade de bateria e recarregar a calculadora.

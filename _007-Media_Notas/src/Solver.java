@@ -62,6 +62,7 @@ class MediaNotas{
         o.append("]");
         return o.toString();
     }
+
 }
 class Solver{
     public static void main(String[] args) {

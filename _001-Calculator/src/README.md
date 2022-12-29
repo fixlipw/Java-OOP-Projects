@@ -17,6 +17,7 @@ O objetivo dessa atividade é implementar uma calculadora e sua bateria.
 ### Shell
 
 ````
-"init M" inicia uma calculadora nova passando por parâmetro a bateria máxima.
-"show" mostra o valor da última operação bem sucedida no display e o estado da bateria.
-"charge t" recarrega a bateria com 't' de carga
+"$init m" inicia uma calculadora nova passando por parâmetro a bateria máxima.
+"$show" mostra o valor da última operação bem sucedida no display e o estado da bateria.
+"$charge t" recarrega a bateria com 't' de carga.
+"$end" finaliza o programa.

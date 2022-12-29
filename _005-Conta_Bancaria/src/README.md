@@ -24,9 +24,9 @@ O objetivo dessa atividade é implimentar uma conta bancária.
 
 ### Shell
 ```
-"$init nome" cria uma conta com 'nome' sendo o titular.
-"$deposita num, valor" deposita 'valor' na conta de número 'num'.
-"$saca num, valor" saca 'valor' da conta de número 'num'.
-"$transfere numOrigem, numDestino, valor" transfere 'valor' da conta 'numOrigem' para a conta 'numDestino'.
-"$show numConta" imprime a conta de número 'numConta'.
+"$init <String> nome" cria uma conta com 'nome' sendo o titular.
+"$deposita <Int> num, <Double> valor" deposita 'valor' na conta de número 'num'.
+"$saca <Int> num, <Double> valor" saca 'valor' da conta de número 'num'.
+"$transfere <Int> numOrigem, <Int> numDestino, <Double> valor" transfere 'valor' da conta 'numOrigem' para a conta 'numDestino'.
+"$show <Int> numConta" imprime a conta de número 'numConta'.
 "$end" finaliza o programa.

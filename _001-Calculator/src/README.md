@@ -19,4 +19,4 @@ O objetivo dessa atividade é implementar uma calculadora e sua bateria.
 ````
 "init M" inicia uma calculadora nova passando por parâmetro a bateria máxima.
 "show" mostra o valor da última operação bem sucedida no display e o estado da bateria.
-"charge V" recarrega a bateria com V de carga
+"charge t" recarrega a bateria com 't' de carga

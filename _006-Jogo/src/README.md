@@ -23,4 +23,5 @@ O objetivo dessa atividade é implementar um jogo de tabuleiro.
 "$init <Int> a, <Int> b" inicia um novo jogo com 'a' jogadores em um tabuleiro com 'b' casas.
 "$addArmadilha <Int> a" adiciona uma armadilha na casa 'a'.
 "$addMove <Int> a, <Int> b" movimenta o peão do jogador em 'a+b' casas.
+"$show" imprime o estado do jogo.
 "$end" finaliza o programa.

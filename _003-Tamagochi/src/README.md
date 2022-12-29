@@ -19,7 +19,7 @@ O objetivo dessa atividade é implementar um simulador de bichinho virtual.
 
 ### Shell
 ```
-"$init t, u, v" inicia energia, saciedade e limpeza de um novo bichinho.
+"$init <Int> t, <Int>  u, <Int> v" inicia energia, saciedade e limpeza de um novo bichinho.
 "$show" mostra os parâmetros do Pet na seguinte ordem:
     Energia/Max, Saciedade/Max, Limpeza/Max, Diamantes, Idade.
 "$play" altera em -2 energia, -1 saciedade, -3 limpeza, +1 diamante, +1 idade.

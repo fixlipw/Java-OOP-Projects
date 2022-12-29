@@ -26,3 +26,4 @@ O objetivo dessa atividade é mplementar um carro ecológico que pode passear pe
 "$enter" insere uma pessoa no carro.
 "$leave" retira uma pessoa do carro.
 "$show" mostra o estado do carro.
+"$end" finaliza o programa.

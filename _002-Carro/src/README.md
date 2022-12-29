@@ -28,6 +28,6 @@ O objetivo dessa atividade é mplementar um carro ecológico que pode passear pe
 "$enter" adiciona um passageiro ao carro.
 "$leave" retira um passageiro do carro.
 "$show" mostra o estado do carro.
-"$drive a" dirige 'a' quilômetros.
-"fuel a" adiciona 'a' litros de água no tanque.
+"$drive <Int> a" dirige 'a' quilômetros.
+"fuel <Int> a" adiciona 'a' litros de água no tanque.
 "$end" finaliza o programa.

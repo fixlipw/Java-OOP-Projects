@@ -1,6 +1,6 @@
 # Carro
 
-O objetivo dessa atividade é mplementar um carro ecológico que pode passear pela cidade. 
+O objetivo dessa atividade é implementar um carro ecológico que pode passear pela cidade. 
 * Ele deve poder embarcar e desembarcar pessoas.
 * Colocar combustível e andar.
 

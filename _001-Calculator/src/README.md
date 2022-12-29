@@ -17,9 +17,9 @@ O objetivo dessa atividade é implementar uma calculadora e sua bateria.
 ### Shell
 
 ````
-"$init m" inicia uma calculadora nova passando por parâmetro a bateria máxima.
+"$init <Int> m" inicia uma calculadora nova passando por parâmetro a bateria máxima.
 "$show" mostra o valor da última operação bem sucedida no display e o estado da bateria.
-"$charge t" recarrega a bateria com 't' de carga.
-"$sum a, b" soma os valores.
-"$div a, b" divide 'a' por 'b'.
+"$charge <Int> t" recarrega a bateria com 't' de carga.
+"$sum <Int> a, <Int> b" soma os valores.
+"$div <Int> a, <Int> b" divide 'a' por 'b'.
 "$end" finaliza o programa.

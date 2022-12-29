@@ -18,7 +18,7 @@ O objetivo dessa atividade é implementar um relógio digital.
 
 ### Shell
 ```
-"$set h, m, s" inicia hora, minuto e segundo de um novo relógio.
+"$set <Int> h, <Int> m, <Int> s" inicia hora, minuto e segundo de um novo relógio.
 "$next" itera o relógio em 1 segundo
 "$show" imprime o horário atual na tela.
 "$end" finaliza o programa.

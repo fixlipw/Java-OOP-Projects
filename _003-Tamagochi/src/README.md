@@ -26,3 +26,4 @@ O objetivo dessa atividade é implementar um simulador de bichinho virtual.
 "$eat" altera em -1 a energia, +4 a saciedade, -2 a limpeza, +0 diamantes, +1 a idade.
 "$sleep" aumenta energia ao máximo, perde 1 de saciedade e idade aumenta do número de turnos que o pet dormiu.
 "$clean" alteram em -3 energia, -1 na saciedade, MAX na limpeza, +0 diamantes, +2 na idade.
+"$end" finaliza o programa.

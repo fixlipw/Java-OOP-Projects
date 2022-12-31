@@ -32,4 +32,5 @@ O objetivo dessa atividade é implementar uma lapiseira que contém um grafite.
 "$insert <Float> a, <String> b, <Int> c" insere um grafite de calibre 'a', de dureza 'b' e tamanho 'c' mm.
 "$remove" remove o grafite inserido na lapiseira.
 "$write" escreve uma página com a lapiseira.
+"$show" imprime o estado atual da lapiseira.
 "$end" finaliza o programa.
